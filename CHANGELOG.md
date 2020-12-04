@@ -1,5 +1,37 @@
 # Changelog
 
+## 0.147.0
+
+<details><summary>google/cloud-assured-workloads 0.1.1</summary>
+
+
+
+### Miscellaneous Chores
+
+* fix snippet ([#3625](https://www.github.com/googleapis/google-cloud-php/issues/3625)) ([4a38a33](https://www.github.com/googleapis/google-cloud-php/commit/4a38a33ae042c765cac3922434c2733d65663add))
+
+</details>
+
+<details><summary>google/cloud-bigquery 1.20.1</summary>
+
+
+
+### Documentation
+
+* add note about preferring startQuery ([#3626](https://www.github.com/googleapis/google-cloud-php/issues/3626)) ([b7a92f9](https://www.github.com/googleapis/google-cloud-php/commit/b7a92f9753526328819425b602dfc6ecdb4905ff))
+
+</details>
+
+<details><summary>google/cloud-firestore 1.19.0</summary>
+
+
+
+### Features
+
+* add support for the not equal (!=) operator ([#3570](https://www.github.com/googleapis/google-cloud-php/issues/3570)) ([1955e25](https://www.github.com/googleapis/google-cloud-php/commit/1955e25188d634c6569eab49f7e2be781302226d))
+
+</details>
+
 ## 0.146.0
 
 <details><summary>google/analytics-admin 0.1.0</summary>
